@@ -1,0 +1,1 @@
+Clean directory - rm -rf data/models/*.zip data/trajectories/*.pkl data/tom/*.pth results/videos/*.mp4 results/logs/*.log

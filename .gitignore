@@ -1,0 +1,18 @@
+# Python artefacts
+venv/
+__pycache__/
+*.py[cod]
+*.log
+
+# raw data (large / private)
+data/
+
+# logs & tensorboard (too big)
+results/logs/
+
+# allow plots
+!results/plots/**
+!results/plots/**/*
+
+# videos handled via Git LFS
+results/videos/
