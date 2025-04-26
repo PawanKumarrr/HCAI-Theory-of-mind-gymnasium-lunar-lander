@@ -1,9 +1,0 @@
-# Requirements for machine_tom_framework/
-gymnasium[box2d]    # Gymnasium with Box2D support for LunarLander-v3
-stable-baselines3   # Stable-Baselines3 for PPO
-torch               # PyTorch for PPO and potential ToM use
-numpy               # NumPy for numerical computations
-matplotlib          # Matplotlib for plotting rewards
-imageio[ffmpeg]     # ImageIO with FFmpeg for video recording
-seaborn             # Seaborn for plotting rewards
-tensorboard         # TensorBoard for logging
